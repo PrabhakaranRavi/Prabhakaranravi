@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhakaran Ravi</h1>
-<h3 align="center">I am a passionate QA Automation Engineer with 2.7 years of experience specializing in both UI and API automation. My journey in tech is driven by a relentless pursuit of excellence and a love for pushing boundaries. I thrive on challenges, embracing every opportunity to step outside of my comfort zone and grow both professionally and personally.</h3>
+<h3 align="center">I am a passionate QA Automation Engineer with 3 years of experience specializing in both UI and API automation. My journey in tech is driven by a relentless pursuit of excellence and a love for pushing boundaries. I thrive on challenges, embracing every opportunity to step outside of my comfort zone and grow both professionally and personally.</h3>
 
 - 🌱 I’m currently learning **SDET Skill Sets**
 
